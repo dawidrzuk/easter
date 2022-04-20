@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             else
             {
                 mojPrzycisk.setColorFilter(null)
-                kolorGreen.background = (ContextCompat.getDrawable(kolorGreen.context, R.color.green))
+                kolorGreen.background = (ContextCompat.getDrawable(kolorGreen.context, R.color.darkgreen))
             }
         }
     }
